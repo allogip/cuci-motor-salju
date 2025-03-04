@@ -187,7 +187,7 @@
     box-shadow: 1px 3px 5px rgba(1, 1, 3, 0.3);
   }
   .video .src .isi {
-    width: 160px;
+    width: 90%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -199,7 +199,7 @@
     box-shadow: 1px 3px 5px rgba(1, 1, 3, 0.3);
   }
   .video .src iframe {
-    width: 160px;
+    width: 90%;
     border-radius: 10px;
     box-shadow: var(--boxshadow);
   }
